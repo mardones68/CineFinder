@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #020617;
+}
+
+[data-issues-open],
+[data-issues-collapse] {
+  display: none !important;
+}
